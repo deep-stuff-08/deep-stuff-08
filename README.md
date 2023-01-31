@@ -17,25 +17,25 @@ I am a Low-Level System Developer and Student
 - ⚡ Fun fact: If you don't think twice before programming, you will have to program twice before you start thinking.
 
 ## :hammer_and_wrench: Languages :
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" width = 50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" width = 50/>&nbsp;
 
 ## :hammer_and_wrench: Technologies :
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_glsl.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_hlsl.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_opencl.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cuda.svg" width = 50/>
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_glsl.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_hlsl.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_opencl.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cuda.svg" width = 50/>&nbsp;
 
 ## :hammer_and_wrench: Platforms :
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width = 50/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width = 50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width = 50/>&nbsp;
 
 ## :fire: My Stats :
 
