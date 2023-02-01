@@ -5,7 +5,7 @@
 
 ![Github](https://komarev.com/ghpvc/?username=deep-stuff-08&style=plastic)
 
-## About Me :
+## 🧑 About Me :
 I am a Low-Level System Developer and Student
 - 🔭 I’m currently working on C/C++
 - 🌱 I’m currently learning OpenGL/GLSL, Direct3D/HLSL, CUDA and OpenCL
@@ -16,7 +16,7 @@ I am a Low-Level System Developer and Student
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If you don't think twice before programming, you will have to program twice before you start thinking.
 
-## :hammer_and_wrench: Languages :
+## 🛠️ Languages :
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" width = 50/>&nbsp;
@@ -25,18 +25,18 @@ I am a Low-Level System Developer and Student
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" width = 50/>&nbsp;
 
-## :hammer_and_wrench: Technologies :
+## 🛠️ Technologies :
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_glsl.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_hlsl.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_opencl.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cuda.svg" width = 50/>&nbsp;
 
-## :hammer_and_wrench: Platforms :
+## 🛠️ Platforms :
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width = 50/>&nbsp;
 
-## :fire: My Stats :
+## 🔥 My Stats :
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=deep-stuff-08&theme=gotham&border_radius=70.5&date_format=j%20M%5B%20Y%5D)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-stuff-08&theme=gotham&border_radius=40.0&layout=compact)
