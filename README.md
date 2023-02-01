@@ -39,6 +39,6 @@ I am a Low-Level System Developer and Student
 
 ## :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deep-stuff-08&theme=gotham&border_radius=70.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=deep-stuff-08&theme=gotham&border_radius=70.5&date_format=j%20M%5B%20Y%5D)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-stuff-08&theme=gotham&border_radius=40.0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-stuff-08&theme=gotham&border_radius=40.0)]()
