@@ -38,6 +38,6 @@ I am a Low-Level System Developer and Student
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width = 50/>&nbsp;
 
 ## 🔥 My Stats :
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-stuff-08&theme=gotham&border_radius=40.0&layout=compact"/>
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=deep-stuff-08&show_icons=true&theme=gotham&border_radius=40.0&layout=compact"/>
+<img height=200 src="https://github-readme-stats.zohan.tech/api/top-langs/?username=deep-stuff-08&theme=gotham&border_radius=40.0&layout=compact"/>
+<img height=200 src="https://github-readme-stats.zohan.tech/api?username=deep-stuff-08&show_icons=true&theme=gotham&border_radius=40.0&layout=compact"/>
 <img height=200 src="https://streak-stats.demolab.com?user=deep-stuff-08&theme=gotham&border_radius=40.5&date_format=j%20M%5B%20Y%5D"/>
