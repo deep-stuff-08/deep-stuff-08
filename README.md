@@ -6,9 +6,9 @@
 ![Github](https://komarev.com/ghpvc/?username=deep-stuff-08&style=plastic)
 
 ## 🧑 About Me :
-I am a Low-Level System Developer and Student
-- 🔭 I’m currently working on C/C++
-- 🌱 I’m currently learning OpenGL/GLSL, Direct3D/HLSL, CUDA and OpenCL
+I am a Graphics Developer and Student
+- 🔭 I’m currently working on C/C++, OpenGL/GLSL, CUDA and OpenCL
+- 🌱 I’m currently learning Direct3D/HLSL
 - 👯 I’m looking to collaborate on Computer Graphics and Heterogenous Parallel Computing
 - 🤔 I’m looking for help with Vulkan, Metal and Direct3D 12
 - 💬 Ask me about Programming
